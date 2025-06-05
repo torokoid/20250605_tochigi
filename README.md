@@ -221,6 +221,9 @@ p.note { display: none; }
     
 <h2><span class="yellow">展望台まで登り切ると、地元幼稚園の子ども達が遠足で登ってきてました</span></h2>
 <a href="20250605_050.JPG" target="_blank"><img src="20250605_050.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">子ども達がバイク見てビックリ<br>画像クリックでバイクから見た動画再生します</span></h2>
+<a href="https://youtu.be/-7aITLNOgso" target="_blank"><img src="20250605_001.png" alt="サンプル画像" width="900" /></a>
 <a href="20250605_051.JPG" target="_blank"><img src="20250605_051.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250605_052.JPG" target="_blank"><img src="20250605_052.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250605_053.JPG" target="_blank"><img src="20250605_053.JPG" alt="サンプル画像" width="900" /></a>
